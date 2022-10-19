@@ -1,0 +1,25 @@
+{
+  "name": "u19-09",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carandgut/u19-09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carandgut/u19-09/issues"
+    },
+    "homepage": "https://github.com/carandgut/u19-09#readme",
+    "dependencies": {
+     "mongoose": "^6.6.5"
+
+    }
+
+}
